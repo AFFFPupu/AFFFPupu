@@ -16,8 +16,6 @@ video games.
   One preferences repo every agent reads, and you approve every change.
 - [spare-quota](https://github.com/AFFFPupu/spare-quota): see how much of
   your Claude Code and Codex quota will go unused before it resets.
-- [pome-sh/skills](https://github.com/pome-sh/skills): Pome's coach skills
-  for coding agents.
 
 Outside work: golf, basketball, and PuPu, my Yorkie.
 
